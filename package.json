@@ -1,0 +1,21 @@
+{
+    "name": "interactive-web-scraper",
+    "version": "1.0.0",
+    "description": "User-driven, cursor-based web scraping Chrome extension",
+    "scripts": {
+        "build": "node build.js",
+        "watch": "node build.js --watch",
+        "clean": "rm -rf dist"
+    },
+    "devDependencies": {
+        "esbuild": "^0.19.0"
+    },
+    "keywords": [
+        "chrome-extension",
+        "web-scraper",
+        "data-extraction",
+        "dom-scraping"
+    ],
+    "author": "",
+    "license": "MIT"
+}
