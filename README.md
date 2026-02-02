@@ -6,11 +6,7 @@ A powerful, user-driven, AI-enhanced Chrome extension for ethical web scraping. 
 
 ## 📸 **Screenshots**
 
-![Main Interface](https://raw.githubusercontent.com/Girma35/clicker/main/screenshots/main_view.png)
-*Modern Mobile-Style Sidebar for seamless scraping*
 
-![Advanced Tools](https://raw.githubusercontent.com/Girma35/clicker/main/screenshots/advanced_tools.png)
-*Elite Automation: Pagination, Infinite Scroll, and Record Workflow*
 
 ---
 
