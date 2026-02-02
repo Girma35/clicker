@@ -1,6 +1,6 @@
 // AI-Powered Field Detection using Gemini API
 
-const GEMINI_API_KEY = 'AIzaSyAGZdtS9kj5hut2Uoi3z1mhinqLBsBVbqU';
+const GEMINI_API_KEY = ''; // ADD YOUR GEMINI API KEY HERE OR IN .env
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent';
 
 export interface FieldDetection {
